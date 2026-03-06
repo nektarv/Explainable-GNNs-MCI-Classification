@@ -1,6 +1,6 @@
 # Classifying Alzheimer's patients from dMRI data using GNN's
 
-This repository contains the source code developed for the semester project of the **eHealth** course at the **School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)**.
+This repository contains the source code developed for the semester project of the **eHealth** course at the **School of Electrical and Computer Engineering, NTUA**.
 
 ## 📌 Overview
 
