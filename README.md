@@ -1,4 +1,4 @@
-# XAI for GNN models classifying Dementia patients from MRI data
+# XAI for GNN models classifying MCI patients with MRI data
 
 This repository contains the source code developed for the semester project of the **eHealth** course at the **School of Electrical and Computer Engineering, NTUA**.
 
